@@ -3,7 +3,6 @@
 # version: 0.1.0
 # author: Erick Guan
 
-gem 'omniauth-weibo-oauth2', '0.3.0'
 
 class WeiboAuthenticator < ::Auth::Authenticator
 
